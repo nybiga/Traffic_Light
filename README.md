@@ -1,6 +1,7 @@
 # Traffic Light
 
 This project uses PlatformIO as it's ecosystem.
+Only one LED is on a any given time. It then turns off after a given time and repeats until there is no power in the circuit.
 
 ## Tools used
 
