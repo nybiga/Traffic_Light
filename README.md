@@ -5,7 +5,7 @@ Only one LED is on a any given time. It then turns off after a given time and re
 
 ## Tools used
 
-An Arduino board
+An Arduino compatible board
 Breadboard
 330 ohms resistors(3)
 LED lights(red, yellow, green)
